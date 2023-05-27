@@ -1,0 +1,8 @@
+POST http://localhost:9000/authenthicate
+content-type: application/json
+
+{
+  "username": "Nicole"
+}
+
+
